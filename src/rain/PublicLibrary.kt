@@ -1,0 +1,4 @@
+package rain
+
+class PublicLibrary {
+}
